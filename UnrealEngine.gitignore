@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Saved/Autosaves/Game/StarterContent/Materials/M_Rock_Sandstone_Auto1.uasset
+Saved/Logs/RehabIsland.log
